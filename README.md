@@ -1,4 +1,4 @@
-![](https://github.com/MrFahad/FIFA-WorldCup-22-Analysis/header.png)
+![](https://github.com/MrFahad/FIFA-WorldCup-22-Analysis/Header.png)
 
 ## Group Stage
 
